@@ -6,7 +6,7 @@
 
 ## 📜 Script
 
-## 💡 Findings:
+## 💡 Findings
 
 ## 💼 Report / Documentation
 
